@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarryPotter1977
+- 👋 Hi, I’m Khayrulla
 - 👀 I’m interested in codeing
 - 🌱 I’m currently learning python backend
 - 💞️ I’m looking to collaborate on ...
